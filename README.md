@@ -16,7 +16,7 @@ Today I learned:
 - Mathematical operations
 - f-strings!
 
-## Day 3: Treasure Island Story
+## DAY 3: Treasure Island Story
 Today I learned:
 - Conditional statements
 - Logic flow
