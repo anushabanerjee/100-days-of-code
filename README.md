@@ -15,3 +15,9 @@ Today I learned:
 - Type conversion
 - Mathematical operations
 - f-strings!
+
+## Day 3: Treasure Island Story
+Today I learned:
+- Conditional statements
+- Logic flow
+- Logical operators
