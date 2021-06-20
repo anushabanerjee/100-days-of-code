@@ -31,19 +31,24 @@ left_right = input ("Type L for Left and R for Right?\n")
 if left_right == "L":
   print("You have reached the lake and notice that there is an island in the middle of it- one that you have never seen before.")
   yes_no = input("Do you want to go to the island? Y or N\n")
+          
   if yes_no == "Y":
     print("There is an old wooden boat moored at the bank of the lake.Do you want to use the boat to reach the island, or swim across?")
     boat = input("Type boat or swim.\n")
+          
     if boat == "boat":
       print("Nice! You used an old boat to go across to the island in the lake.\nOn reaching the island you notice that there is a table full of delicious fruits, bread, wine and cheese.")
       food = input("Do you taste something? Y or N\n")
+          
       if food == "Y":
         fav_food = input("What is it that you decide to taste?\n")
         print(f"Yum!The {fav_food} was impeccable! A good decision.")
       red = input("Moving on, you see two doors- red and blue. Which one do you take?\n")
+
       if red == "red":
         print("Whoa! You open the red door, and ther is a small glowy little box on a table!")
         box = input("Do you want to open it? Y or N.\n")
+          
         if box == "N":
           print("Come on! You have reached so far. Open it.")
         print("Opening the box, the light almost blinds you. When you get habituated, you find a screen which says \"Scan for Unlimited Amazon Vouchers\".\nCongratulations. You win unlimited Amazon vouchers!")
