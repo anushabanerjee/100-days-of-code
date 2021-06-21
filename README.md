@@ -21,3 +21,8 @@ Today I learned:
 - Conditional statements
 - Logic flow
 - Logical operators
+
+## DAY 4: Rock Paper Scissors! 
+Today I learned:
+- Random Module
+- Introduction to Data Structures (Lists)
