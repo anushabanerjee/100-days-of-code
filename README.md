@@ -26,3 +26,10 @@ Today I learned:
 Today I learned:
 - Random Module
 - Introduction to Data Structures (Lists)
+
+## DAY 5: Password Generator
+Today I learned:
+- Introduction to For loops
+- Using loops with lists
+- range() function
+
