@@ -33,3 +33,11 @@ Today I learned:
 - Using loops with lists
 - range() function
 
+## DAY 6: Problem Solving with Karel the robot
+Today I learned:
+- Introduction to Functions
+- Algorithmic thinking
+- Code blocks and indentation
+- While Loops
+
+
