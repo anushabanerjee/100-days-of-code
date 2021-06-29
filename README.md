@@ -40,4 +40,7 @@ Today I learned:
 - Code blocks and indentation
 - While Loops
 
-
+## DAY 7: Hangman
+Today I learned:
+- How to breakdown a problem into smaller bits
+- Learned to add ASCII art to make the code more fun looking
