@@ -44,3 +44,9 @@ Today I learned:
 Today I learned:
 - How to breakdown a problem into smaller bits
 - Learned to add ASCII art to make the code more fun looking
+
+## DAY 8: Caesar Cypher
+Today I learned:
+- Functions with Inputs
+- Keyword arguments vs Positional arguments
+- Encrypt and decrypt logic
