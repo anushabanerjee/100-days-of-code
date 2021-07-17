@@ -50,3 +50,8 @@ Today I learned:
 - Functions with Inputs
 - Keyword arguments vs Positional arguments
 - Encrypt and decrypt logic
+
+## DAY 9: Blind Auction Project
+Today I learned:
+- Nested Lists and Dictionaries
+- Key value pairs
