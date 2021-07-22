@@ -55,3 +55,11 @@ Today I learned:
 Today I learned:
 - Nested Lists and Dictionaries
 - Key value pairs
+
+## DAY 10: Simple Text-based Calculator
+Today I learned:
+- Functions with Outputs
+- The return keyword
+- How functions really work
+- Docstrings!
+- Recursion!
