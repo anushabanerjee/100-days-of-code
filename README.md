@@ -63,3 +63,6 @@ Today I learned:
 - How functions really work
 - Docstrings!
 - Recursion!
+
+## DAY 11: CAPSTONE- Blackjack Game
+Today I designed a simple text-based Blackjack game where I applied all the concepts from the the previous days.
